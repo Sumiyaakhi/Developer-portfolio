@@ -39,6 +39,17 @@ nav ul{
     border-radius: 5px;
     background-color: #FD6E0A;
 }
+.contact-icon{
+    font-weight: 700;
+    font-size: 20px;
+    color: #FD6E0A;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    border-color: #FD6E0A;
+
+}
+
 /*banner style */
 .banner{
     margin: 0 200px;
